@@ -14,7 +14,7 @@ html {
     background-color: gray;
 }
 body {
-    width: 762px;
+    width: 760px;
     margin: 1em auto;
     background-color: white;
     border: 3px solid black;
@@ -65,7 +65,7 @@ header h1,h2 {
     text-align: center;
     display: block;
     padding: 1em 0;
-    width: 152px;
+    width: 202px;
     text-decoration: none;
     background-color: black;
     color: white;
