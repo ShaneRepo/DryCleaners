@@ -179,10 +179,10 @@ tbody th {
 tbody tr:nth-child(even) {
     background-color: lightgrey;
 }
-td:first-child {
+td {
     color: black;
     font-weight: bold;
 }
-td a:hover, a:focus {
+tr td:hover, td:focus {
     color: red;
 }
