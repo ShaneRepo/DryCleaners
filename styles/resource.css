@@ -142,7 +142,7 @@ aside {
 }
 main {
     width: 550px;
-    height: 525px;
+    height: auto;
     float: right;
     padding: 1em;
 }
