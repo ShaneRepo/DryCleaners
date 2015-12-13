@@ -156,9 +156,11 @@ footer a {
 }
 .rList {
     font-size: 150%;
+    color: red;
+    background-color: lightgray;
     font-weight: bold;
-    padding: .25em;
-    text-indent: 2em;
+    padding: .75em;
+    text-indent: 6em;
 }
 .tableTitle {
     color: red;
@@ -185,4 +187,7 @@ td {
 }
 tr td:hover, td:focus {
     color: red;
+}
+main img {
+    margin-top: 2em;
 }
